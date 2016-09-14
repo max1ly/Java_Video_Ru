@@ -339,6 +339,7 @@
 6. [Николай Алименков — Парадигмы ООП](https://www.youtube.com/watch?v=G6LJkWwZGuc)
 7. [Михаил Ершов — Разработка совместимого API](https://www.youtube.com/watch?v=EgOZSr-Uc3w)
 8. [Nikolay Chashnikov — Write code faster with fewer errors: is it possible?](https://www.youtube.com/watch?v=_VhIBu8_4TE&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=57) — как избегать ошибок при написании кода,
+9. [Александр Маторин — Рефакторинг в функциональном стиле](https://www.youtube.com/watch?v=rNg8jrWelXk)
 
 ### 7.2 Архитектура, бизнес правила, бизнес модель и примеры приложений
 
@@ -376,5 +377,6 @@
 4. [Кузьма Деретюк — UrsaJ HTTP File Storage](https://www.youtube.com/watch?v=KYNhmkT7zYE)
 5. [Дмитрий Чуйко — Java Mission Control](https://www.youtube.com/watch?v=rKuhLvukOhs)
 6. [Igor Khotin — The Craft of Metaprogramming on JVM](https://www.youtube.com/watch?v=W05JqPJIHTU) — о метапрограммировании в Java
+7. [Антон Кекс — Цифровая подпись в Java](https://www.youtube.com/watch?v=WK6y5Jm8eHA)
 
 ###Источник <http://habrahabr.ru/company/luxoft/blog/272025/>
