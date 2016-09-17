@@ -111,7 +111,7 @@
 1. [Андрей Бреслав — Type-safe Web with Kotlin](https://www.youtube.com/watch?v=6y-4xJWFLl4)
 2. [Андрей Бреслав — Project Kotlin](https://www.youtube.com/watch?v=wjkaPXT_vY4)
 3. [Евгений Геращенко — Kotlin, язык программирования для JVM](https://www.youtube.com/watch?v=mFEys4FSg8M&list=PLfpMTxLIW5TrA9o0rX0ZoS6yPepWD0G4R&index=7)
-4. [— Язык программирования Kotlin](https://www.youtube.com/watch?v=DXY2B6XtzmY&list=PLfpMTxLIW5TrA9o0rX0ZoS6yPepWD0G4R&index=8)
+4. [Юрий Трухин— Язык программирования Kotlin](https://www.youtube.com/watch?v=DXY2B6XtzmY&list=PLfpMTxLIW5TrA9o0rX0ZoS6yPepWD0G4R&index=8)
 
 ### 3.4 Java Embedded и IoT
 
@@ -121,7 +121,7 @@
 4. [Александр Мироненко и Александр Белокрылов — Java Embedded у вас дома](https://www.youtube.com/watch?v=duphdUhgK5Q)
 5. [Лев Прийма — Java SE Embedded 8](https://www.youtube.com/watch?v=yZu8ByNud5o)
 6. [Александр Белокрылов и Александр Мироненко — Полноценный Java runtime, 256Kb RAM и 5 литров пива](https://www.youtube.com/watch?v=uUeIecjV-6k)
-7. [— Java ME Embedded: проверенные технологии на перспективных рынках](https://www.youtube.com/watch?v=zlwFYfuO9eM&list=PLfpMTxLIW5TrA9o0rX0ZoS6yPepWD0G4R&index=6)
+7. [Артур Пилипенко — Java ME Embedded: проверенные технологии на перспективных рынках](https://www.youtube.com/watch?v=zlwFYfuO9eM&list=PLfpMTxLIW5TrA9o0rX0ZoS6yPepWD0G4R&index=6)
 8. [Yakov Fain — RESTful services and OAUTH protocol in IoT](https://www.youtube.com/watch?v=8CN49EGDJJQ&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=4)
 
 ### 3.5 Java EE 7
@@ -136,8 +136,8 @@
 4. [Владимир Иванов — Java 8: что нового в HotSpot JVM?](https://www.youtube.com/watch?v=EMXflWb9Z5w)
 5. [Maurice Naftalin — What's New in Java 8](https://www.youtube.com/watch?v=cOglY060qQY)
 6. [Александр Ильин — Type annotations in Java 8\. И почему это хорошо](https://www.youtube.com/watch?v=F22HWhqWvFA)
-7. [Сергей Куксенко и Алексей Шипилёв — Через тернии к лямбдам, часть 2](https://www.youtube.com/watch?v=JRBWBJ6S4aU)
-8. [Сергей Куксенко и Алексей Шипилёв — Через тернии к лямбдам, часть 1](https://www.youtube.com/watch?v=kxgo7Y4cdA8)
+7. [Сергей Куксенко и Алексей Шипилёв — Через тернии к лямбдам, часть 1](https://www.youtube.com/watch?v=kxgo7Y4cdA8)
+8. [Сергей Куксенко и Алексей Шипилёв — Через тернии к лямбдам, часть 2](https://www.youtube.com/watch?v=JRBWBJ6S4aU)
 9. [Сергей Куксенко — Stream API, часть 2](https://www.youtube.com/watch?v=i0Jr2l3jrDA)
 10. [Сергей Куксенко — Stream API, часть 1](https://www.youtube.com/watch?v=O8oN4KSZEXE)
 11. [Сергей Куксенко — JDK8: Stream style](https://www.youtube.com/watch?v=Zq--4Vh5RLI)
@@ -309,7 +309,7 @@
 ### 6.7 Аспектно-ориентированное программирование
 
 1. [Николай Гарбузов, Донривер — Аспектно-ориентированное решение классических проблем](https://www.youtube.com/watch?v=uiDKnRvtsiw)
-2. [Игорь Сухоруков. AspectJ Scripting](https://vimeo.com/143683419)
+2. [Игорь Сухоруков — AspectJ Scripting](https://vimeo.com/143683419)
 
 ### 6.8 Рефлексия и Invokedynamic
 
