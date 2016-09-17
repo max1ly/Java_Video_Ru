@@ -112,6 +112,7 @@
 2. [Андрей Бреслав — Project Kotlin](https://www.youtube.com/watch?v=wjkaPXT_vY4)
 3. [Евгений Геращенко — Kotlin, язык программирования для JVM](https://www.youtube.com/watch?v=mFEys4FSg8M&list=PLfpMTxLIW5TrA9o0rX0ZoS6yPepWD0G4R&index=7)
 4. [Юрий Трухин— Язык программирования Kotlin](https://www.youtube.com/watch?v=DXY2B6XtzmY&list=PLfpMTxLIW5TrA9o0rX0ZoS6yPepWD0G4R&index=8)
+5. [Anton Keks - Kotlin in real projects: pragmatic opinion on pragmatic language (Ru)](https://www.youtube.com/watch?v=CABN2r4GPpQ)
 
 ### 3.4 Java Embedded и IoT
 
