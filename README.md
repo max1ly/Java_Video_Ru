@@ -150,6 +150,7 @@
 17. [Oleg Tsal-Tsalko — Java 8 Lambdas Hands-On-Labs](https://www.youtube.com/watch?v=ITGswTpHIos&list=PLlhpyJD4TzMbYWHgSJb2kydmCMnem6YIk&index=9)
 18. [Pavel Grushetzky — Java for hipsters and rocks stars](https://www.youtube.com/watch?v=CPbfSiQds9g&index=14&list=PLlhpyJD4TzMbYWHgSJb2kydmCMnem6YIk)
 19. [Oleg Tsal-Tsalko — 10+ new features you ought to know using Java 8](https://www.youtube.com/watch?v=uweWvwzF_bA)
+20. [Барух Садогурский, Евгений Борисов, Тагир Валеев — Java 8 Puzzlers](https://www.youtube.com/watch?v=6bN1HcRhse4)
 
 ### 3.7 Java 9+ и будущее Java
 
