@@ -222,6 +222,7 @@
 
 1. [Николай Алименков — Босиком по граблям Hibernate](https://www.youtube.com/watch?v=YzOTZTt-PR0)
 2. [Яков Сироткин, Sidenis — Миграция с PL/SQL на Java](https://www.youtube.com/watch?v=uAOinr8StoQ)
+3. [Вячеслав Круглов — Как начинающему Java-разработчику подружиться со своей базой данных?](https://www.youtube.com/watch?v=dFASbaIG-UU) упоминает библиотеку [Log4JDBC](https://github.com/arthurblake/log4jdbc)
 
 ### 5.3 Поисковые системы
 
