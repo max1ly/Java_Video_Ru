@@ -357,6 +357,7 @@
 1. [Яков Сироткин — История релизов](https://www.youtube.com/watch?v=xu75nEKrzaU) — продолжение истории разработки геномного ассемблера
 1. [Евгений Борисов — eXtreme Application Platform (XAP)](https://www.youtube.com/watch?v=a-ArgBL5WhA)
 1. [Барух Садогурский — Bintray: Масштабируемый сервис в облаке с нуля](https://www.youtube.com/watch?v=9PulrKvL9Fc)
+1. [Барух Садогурский — Bintray: Работает — не трогай! Или зачем мы опять переделали всю архитектуру](https://www.youtube.com/watch?v=dhcUhkz1hxM)
 1. [Anatoliy Sokolenko — Key Problems of Microservice Architecture](https://www.youtube.com/watch?v=BaOB0iiq0-g&index=16&list=PLlhpyJD4TzMbYWHgSJb2kydmCMnem6YIk) — что такое сервисы и микросервисы, как их реализовать на практике, чем это лучше стандартной архитектуры и какие проблемы возникают при такой архитектуре,
 1. [Izzet Mustafaiev — Fault tolerance – look, it’s possible!](https://www.youtube.com/watch?v=HwIvF1e0Z1o)
 1. [Oleg Tsal-Tsalko — Distributed systems and scalability rules](https://www.youtube.com/watch?v=KRs2URDBZ_A)
