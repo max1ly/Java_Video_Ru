@@ -62,7 +62,7 @@
 1. [Антон Архипов — JRebel](https://www.youtube.com/watch?v=7QS8mfuEaFA) — инструмент, который позволяет «на лету» перезагружать классы, измененные с момента развёртывания приложения.,
 1. [Барух Садогурский — Разработка модулярного софта: добро пожаловать в АД!](https://www.youtube.com/watch?v=wuwC4hDvjm4)
 1. [Alexey Alexandrov — All inclusive Jeastic PaaS](https://www.youtube.com/watch?v=cgO739fXSyk&index=4&list=PLlhpyJD4TzMbYWHgSJb2kydmCMnem6YIk) — описание платформы для облачных вычислений
-1. [Baruch Sadogurskii — Managing Modular Software for your NuGet, C++ and Java Development](https://www.youtube.com/watch?v=LhURJOgO61E)
+1. [Барух Садогурский — Managing Modular Software for your NuGet, C++ and Java Development](https://www.youtube.com/watch?v=LhURJOgO61E)
 1. [Philip Torchinsky — Интеграция баг-трекера и сервера CI с IntelliJ IDEA](https://www.youtube.com/watch?v=YEClJ8LKf_s)
 1. [ladimir Kozhaev — How to write IDE for your DSL in one day](https://www.youtube.com/watch?v=fgw_C-mXIA4&index=27&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL)
 1. [Евгений Борисов — Power of Gradle](https://www.youtube.com/watch?v=NZJTYPLb0iE)
@@ -97,7 +97,7 @@
 1. [Барух Садогурский — Groovy DSL для plugin-ов: расширения человеческим языком](https://www.youtube.com/watch?v=373g-lGWy-g)
 1. [Барух Садогурский — Транcформации Абстрактного Синтаксического Дерева в Груви. ЩИТО?!](https://www.youtube.com/watch?v=wd-mXqXdfk0)
 1. [Izzet Mustafaiev — Groovy MOPping](https://www.youtube.com/watch?v=h01gHwMRJCU) — принципы построения DSL на groovy
-1. [Baruch Sadogursky — Search for the Holy Grail (and test it once found)](https://www.youtube.com/watch?v=SsK66zf7FOE) — какие решения для поиска существуют в Grail и какие решения для тестирования существуют в Grails
+1. [Барух Садогурский — Search for the Holy Grail (and test it once found)](https://www.youtube.com/watch?v=SsK66zf7FOE) — какие решения для поиска существуют в Grail и какие решения для тестирования существуют в Grails
 
 ### 3.2 Clojure
 
@@ -361,7 +361,7 @@
 1. [Anatoliy Sokolenko — Key Problems of Microservice Architecture](https://www.youtube.com/watch?v=BaOB0iiq0-g&index=16&list=PLlhpyJD4TzMbYWHgSJb2kydmCMnem6YIk) — что такое сервисы и микросервисы, как их реализовать на практике, чем это лучше стандартной архитектуры и какие проблемы возникают при такой архитектуре,
 1. [Izzet Mustafaiev — Fault tolerance – look, it’s possible!](https://www.youtube.com/watch?v=HwIvF1e0Z1o)
 1. [Oleg Tsal-Tsalko — Distributed systems and scalability rules](https://www.youtube.com/watch?v=KRs2URDBZ_A)
-1. [Baruch Sadogursky — Everything you wanted to know about async HTTP apps in Java](https://www.youtube.com/watch?v=onCSPCuH8cw&index=31&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — о написании асинхронного менеджера загрузок с параллельной загрузок файлов, одного файла, прерывания и паузы для программы репозиторий
+1. [Барух Садогурский — Everything you wanted to know about async HTTP apps in Java](https://www.youtube.com/watch?v=onCSPCuH8cw&index=31&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — о написании асинхронного менеджера загрузок с параллельной загрузок файлов, одного файла, прерывания и паузы для программы репозиторий
 1. [Maxim Ivanov — Hey, I’ve seen something like it before!](https://www.youtube.com/watch?v=G34-crfjMHU&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=47) — подходы к принятию архитектурных решений. Хайп (использования модных базвордов — микросервисов, nosql и т.п. ради базвордов) и его последствия для архитекторов.
 
 ### 7.3 Тестирование приложений
