@@ -343,6 +343,7 @@
 1. [Михаил Ершов — Разработка совместимого API](https://www.youtube.com/watch?v=EgOZSr-Uc3w)
 1. [Nikolay Chashnikov — Write code faster with fewer errors: is it possible?](https://www.youtube.com/watch?v=_VhIBu8_4TE&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=57) — как избегать ошибок при написании кода,
 1. [Александр Маторин — Рефакторинг в функциональном стиле](https://www.youtube.com/watch?v=rNg8jrWelXk)
+1. [Вячеслав Лапин — Functional Reactive Programming в Java/JS](https://www.youtube.com/watch?v=pyFGxhFWBPA)
 
 ### 7.2 Архитектура, бизнес правила, бизнес модель и примеры приложений
 
