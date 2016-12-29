@@ -77,8 +77,8 @@
 1. [Виталий Трифанов и Дмитрий Цителов — Динамическое обнаружение гонок в многопоточных Java-программах](https://www.youtube.com/watch?v=KfdsdLqpbw4)
 1. [Андрей Паньгин — Лучший отладчик — сделанный своими руками](https://www.youtube.com/watch?v=pH_NdoKd6Oc)
 1. [Андрей Паньгин — Аварийный дамп — черный ящик упавшей JVM](https://www.youtube.com/watch?v=6qpQjEQ547o)
-1. [Андрей Паньгин — Анализ аварийных дампов JVM, часть 2](https://www.youtube.com/watch?v=MvA-hPCLjRM)
 1. [Андрей Паньгин — Анализ аварийных дампов JVM, часть 1](https://www.youtube.com/watch?v=6SxNUft8Gqw)
+1. [Андрей Паньгин — Анализ аварийных дампов JVM, часть 2](https://www.youtube.com/watch?v=MvA-hPCLjRM)
 1. [Александр Отенко — О чём молчит профайлер](https://www.youtube.com/watch?v=18mGxXlpLfo)
 1. [Андрей Паньгин — Аварийный дамп — «черный ящик» JVM](https://www.youtube.com/watch?v=CTqwPLUIAsY)
 1. [Алексей Рагозин — Диагностические интерфейсы JVM, или Как сделать профайлер своими руками](https://www.youtube.com/watch?v=UzM4S1hXNtU)
@@ -308,6 +308,7 @@
 1. [Шура Ильин — JTReg: OpenJDK test harness](https://www.youtube.com/watch?v=1zCQmKOJEKo)
 1. [Шура Ильин — OpenJDK TestFest Intro](https://www.youtube.com/watch?v=1p9eagpKb1M)
 1. [Alexey Fyodorov — JDK: CPU, PSU, LU, FR – WTF???](https://www.youtube.com/watch?v=iQ5DKnS1kG4&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — рассказывается о четырех типах обновлений JDK в компании Oracle (Critical Patch Update (CPU), Patch Set Update (PSU), Limited Update (LU) and Feature Release (FR)). Чем отличаются типы обновления, какие изменения возможны в каждом типе обновлений.
+1. [Никита Липский, Владимир Иванов — JVM: краткий курс общей анатомии](https://www.youtube.com/watch?v=-fcj6EL9rc4)
 
 ### 6.7 Аспектно-ориентированное программирование
 
