@@ -84,6 +84,7 @@
 1. [Алексей Рагозин — Диагностические интерфейсы JVM, или Как сделать профайлер своими руками](https://www.youtube.com/watch?v=UzM4S1hXNtU)
 1. [Владимир Воскресенский — Практическое применение OSS для анализа Java-приложений](https://www.youtube.com/watch?v=1NSweL0sIjs) — Использование Oracle Solaris Studio для анализа высокопроизводительных Java-приложений
 1. [Алексей Шипилёв — (The Art of) (Java) Performance Benchmarking II](https://www.youtube.com/watch?v=Mw0Vimj39cI)
+1. [Андрей Паньгин — Всё, что вы хотели знать о стек-трейсах и хип-дампах](https://www.youtube.com/watch?v=0pyZERLBZvQ)
 
 ## **3\. Особенности разных языков JVM и версий Java**
 
@@ -384,5 +385,6 @@
 1. [Дмитрий Чуйко — Java Mission Control](https://www.youtube.com/watch?v=rKuhLvukOhs)
 1. [Igor Khotin — The Craft of Metaprogramming on JVM](https://www.youtube.com/watch?v=W05JqPJIHTU) — о метапрограммировании в Java
 1. [Антон Кекс — Цифровая подпись в Java](https://www.youtube.com/watch?v=WK6y5Jm8eHA)
+1. [Антон Архипов - Неадекватное Java-интервью](https://www.youtube.com/watch?v=Vlb_Is-rRTQ)
 
 ###Источник <http://habrahabr.ru/company/luxoft/blog/272025/>
