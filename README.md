@@ -203,6 +203,7 @@
 1. [Андрей Шевченко — Генерация больших отчетов с использованием Jasper Reports](https://www.youtube.com/watch?v=oghUWUMwgac)
 1. [Владимир Красильщик — Java-mapping для прагматичных программистов](https://www.youtube.com/watch?v=8Rx5gKURmT0) — использования библиотек и фреймворктов для mapping'а (dozer, spring type converter api, nomin, scala dsl, transmorf и т.д.)
 1. [Andrii Golovei — Highly available and scalable application for dummies with Storm](https://www.youtube.com/watch?v=zNI4ISBvtm0) — Storm фреймворк для машинного обучения, высокопроизводительных вычислений
+1. [Andrus Adamchik - No container: a Modern Java Stack with Bootique](https://www.youtube.com/watch?v=Zhe0JPQojQw)
 
 ## **5\. Базы данных, поисковые системы и BigData**
 
