@@ -3,7 +3,7 @@
 ### 1.1 Производительность и оптимизация
 
 1. [Сергей Куксенко, Oracle — Железные счётчики на страже производительности](https://www.youtube.com/watch?v=RlX0f9pzhtc)
-1. [Алексей Шипилёв, Oracle — Катехизис java.lang.String](https://www.youtube.com/watch?v=SZFe3m1DV1A) — о реализации строк в Java, способы оптимизации работы со строками и ошибки, которые часто допускают при оптимизации работы со строками,
+1. [Алексей Шипилёв, Oracle — Катехизис java.lang.String](https://www.youtube.com/watch?v=SZFe3m1DV1A) — о реализации строк в Java, способы оптимизации работы со строками и ошибки, которые часто допускают при оптимизации работы со строками
 1. [Алексей Шипилёв — Java Benchmarking: как два таймстампа прочитать!](https://www.youtube.com/watch?v=8pMfUopQ9Es)
 1. [Алексей Шипилёв — Java Benchmarking: как два таймстампа записать](https://www.youtube.com/watch?v=fzEUyqg3WPU)
 1. [Алексей Шипилёв и Сергей Куксенко — Оптимизация производительности Java-приложений: теория](https://www.youtube.com/watch?v=ulWWSKr0Ce0)
@@ -18,17 +18,17 @@
 1. [Андрей Афанасьев — Оптимизация производительности распределенных приложений...](https://www.youtube.com/watch?v=CWuIElUCKZo)
 1. [Руслан Черёмин — Disruptor и прочие фокусы](https://www.youtube.com/watch?v=IsGBA9KEtTM)
 1. [Gleb Smirnov — Side-By-Side Performance Comparisons](https://www.youtube.com/watch?v=mAtyeBOT2vg&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=22) — что значит «тормозит» и как с этим бороться
-1. [Nikita Salnikov Tarnovski — First steps in GC tuning](https://www.youtube.com/watch?v=4MWJgxLukfI&index=60&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — проблемы, связанные с производительностью из-за сборщика мусора
+1. [Никита Сальников-Тарновский — First steps in GC tuning](https://www.youtube.com/watch?v=4MWJgxLukfI&index=60&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — проблемы, связанные с производительностью из-за сборщика мусора
 
 ### 1.2 Высоконагруженные приложения (HighLoad)
 
 1. [Андрей Паньгин — Особенности разработки высоконагруженного сервера на Java](https://www.youtube.com/watch?v=gIh0X-RkftY)
 1. [Алексей Шевчук — Подходы к решению проблем производительности высоконагруженых сервисов](https://www.youtube.com/watch?v=TnlrHlQzsN4)
 1. [Роман Елизаров — Миллионы котировок в секунду на чистой Java](https://www.youtube.com/watch?v=Q-7y1u9kZV0)
-1. [Олег Анастасьев — За гранью возможного (Keynote)](https://www.youtube.com/watch?v=ERzOp3Z4QM0) — о проблемах при создания Однокласников и решения для высоконагруженных сервисов,
-1. [Андрея Паньгина — Выжимаем из сервера максимум: приемы кеширования и передачи данных на Java](https://www.youtube.com/watch?v=LYs1qUUVZ7w) — описание приемов создания высоконагруженных систем на Odnoklassniki.ru,
+1. [Олег Анастасьев — За гранью возможного (Keynote)](https://www.youtube.com/watch?v=ERzOp3Z4QM0) — о проблемах при создания Однокласников и решения для высоконагруженных сервисов
+1. [Андрей Паньгин — Выжимаем из сервера максимум: приемы кеширования и передачи данных на Java](https://www.youtube.com/watch?v=LYs1qUUVZ7w) — описание приемов создания высоконагруженных систем на Odnoklassniki.ru
 1. [Alexander Oleynikov — Практический опыт построения API высоконагруженных сервисов](https://www.youtube.com/watch?v=K1ozhmRxILE) — описание создания высоконагруженных систем в Yandex'е,
-1. [Valerii Moisieienko — How to Manage 10K request per second in HA manner](https://www.youtube.com/watch?v=Nu1mxR5b-3c&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=43) — история разработки высоконагруженного приложения на недорогом железе,
+1. [Valerii Moisieienko — How to Manage 10K request per second in HA manner](https://www.youtube.com/watch?v=Nu1mxR5b-3c&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=43) — история разработки высоконагруженного приложения на недорогом железе
 
 ### 1.3 Сборка мусора, утечки памяти и работа с памятью
 
@@ -43,9 +43,9 @@
 1. [Александр Макаров — Исследование возможностей и ограничений JVM по оптимизации памяти](https://www.youtube.com/watch?v=aeKT6uarVOA)
 1. [Андрей Паньгин — Кеширование данных вне Java Heap и работа с разделяемой памятью в Java](https://www.youtube.com/watch?v=h9AICWfaEVQ)
 1. [Владимир Иванов — G1 Garbage Collector](https://www.youtube.com/watch?v=iGRfyhE02lA)
-1. [Иван Крылов — StructuredArray и ObjectLayout](https://www.youtube.com/watch?v=TmhMSlGAZmE) — как JVM представляет объекты и вопросы производительности представления объектов,
+1. [Иван Крылов — StructuredArray и ObjectLayout](https://www.youtube.com/watch?v=TmhMSlGAZmE) — как JVM представляет объекты и вопросы производительности представления объектов
 1. [Никита Сальников-Тарновский — Heap, off you go](https://www.youtube.com/watch?v=vJ_uYvxH9pw)
-1. [Nikita Salnikov-Tarnovski — I bet you have a permgen leak in your application](https://www.youtube.com/watch?v=iHTg5QQg2NE) — утечки памяти из-за class load'ов
+1. [Никита Сальников-Тарновский — I bet you have a permgen leak in your application](https://www.youtube.com/watch?v=iHTg5QQg2NE) — утечки памяти из-за class load'ов
 
 ## **2\. Инструменты и IDE**
 
@@ -59,12 +59,12 @@
 1. [Николай Чашников — Компилятор Java и IDE: взаимовыгодное сотрудничество](https://www.youtube.com/watch?v=_sDsmzpVpvs)
 1. [Андрей Чепцов, Барух Садогурский, Антон Архипов — Круглый стол. Инструменты Java-разработчика](https://www.youtube.com/watch?v=Urj4_HBlEgs)
 1. [Александр (Шура) Ильин — Анализ покрытия с помощью JCov](https://www.youtube.com/watch?v=IXbAEazdjM0)
-1. [Антон Архипов — JRebel](https://www.youtube.com/watch?v=7QS8mfuEaFA) — инструмент, который позволяет «на лету» перезагружать классы, измененные с момента развёртывания приложения.,
+1. [Антон Архипов — JRebel](https://www.youtube.com/watch?v=7QS8mfuEaFA) — инструмент, который позволяет «на лету» перезагружать классы, измененные с момента развёртывания приложения
 1. [Барух Садогурский — Разработка модулярного софта: добро пожаловать в АД!](https://www.youtube.com/watch?v=wuwC4hDvjm4)
 1. [Alexey Alexandrov — All inclusive Jeastic PaaS](https://www.youtube.com/watch?v=cgO739fXSyk&index=4&list=PLlhpyJD4TzMbYWHgSJb2kydmCMnem6YIk) — описание платформы для облачных вычислений
 1. [Барух Садогурский — Managing Modular Software for your NuGet, C++ and Java Development](https://www.youtube.com/watch?v=LhURJOgO61E)
 1. [Philip Torchinsky — Интеграция баг-трекера и сервера CI с IntelliJ IDEA](https://www.youtube.com/watch?v=YEClJ8LKf_s)
-1. [ladimir Kozhaev — How to write IDE for your DSL in one day](https://www.youtube.com/watch?v=fgw_C-mXIA4&index=27&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL)
+1. [Владимир Кожаев — How to write IDE for your DSL in one day](https://www.youtube.com/watch?v=fgw_C-mXIA4&index=27&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL)
 1. [Евгений Борисов — Power of Gradle](https://www.youtube.com/watch?v=NZJTYPLb0iE)
 1. [Sergey Morenets — Gradle 2\. Write once, build everywhere](https://www.youtube.com/watch?v=zxbjAa49y_o) — внимание: видео на **украинском языке**
 
@@ -104,8 +104,8 @@
 
 1. [Николай Рыжиков — Clojure: интерактивная разработка для интерактивного веб](https://www.youtube.com/watch?v=m_nlBeNIhZo)
 1. [Maurice Naftalin — Closures and Collections: the World After Eight](https://www.youtube.com/watch?v=YOtFI_AdW7A)
-1. [Dmitriy Morozov — ETL all the things!](https://www.youtube.com/watch?v=bo2yCyC2Rvs&index=19&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — использование ETL (Extract, transform, load) в Clojure, как можно использовать Spark c Clojure,
-1. [Misha Kozik — DSL in Clojure](https://www.youtube.com/watch?v=ZmaiqoDQZmc&index=29&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — использование Clojure для написания DSL,
+1. [Dmitriy Morozov — ETL all the things!](https://www.youtube.com/watch?v=bo2yCyC2Rvs&index=19&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — использование ETL (Extract, transform load) в Clojure, как можно использовать Spark c Clojure
+1. [Misha Kozik — DSL in Clojure](https://www.youtube.com/watch?v=ZmaiqoDQZmc&index=29&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — использование Clojure для написания DSL
 
 ### 3.3 Kotlin
 
@@ -113,7 +113,7 @@
 1. [Андрей Бреслав — Project Kotlin](https://www.youtube.com/watch?v=wjkaPXT_vY4)
 1. [Евгений Геращенко — Kotlin, язык программирования для JVM](https://www.youtube.com/watch?v=mFEys4FSg8M&list=PLfpMTxLIW5TrA9o0rX0ZoS6yPepWD0G4R&index=7)
 1. [Юрий Трухин— Язык программирования Kotlin](https://www.youtube.com/watch?v=DXY2B6XtzmY&list=PLfpMTxLIW5TrA9o0rX0ZoS6yPepWD0G4R&index=8)
-1. [Anton Keks - Kotlin in real projects: pragmatic opinion on pragmatic language (Ru)](https://www.youtube.com/watch?v=CABN2r4GPpQ)
+1. [Антон Кекс - Kotlin in real projects: pragmatic opinion on pragmatic language](https://www.youtube.com/watch?v=CABN2r4GPpQ)
 
 ### 3.4 Java Embedded и IoT
 
@@ -179,7 +179,7 @@
 1. [Artem Bilan — Spring and Messaging: The next development generation](https://www.youtube.com/watch?v=C3I0P1NlK1c)
 1. [Vladimir Tsukur — From CRUD to Hypermedia APIs with Spring](https://www.youtube.com/watch?v=iJZwqZqx6BQ)
 1. [Igor Khotin — App infrastructure for microservices with Spring Cloud 1.0.0](https://www.youtube.com/watch?v=20pX41-22Ig&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=45) — микросервисы, cloud, Spring и DevOps,
-1. [Sergey Morenets — Spring Boot. Boot up your development](https://www.youtube.com/watch?v=uRXRIDy-6UU&index=46&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — описание фреймворка Spring Boot, почему данный фреймворк позволяет создавать приложения намного быстрее,
+1. [Sergey Morenets — Spring Boot. Boot up your development](https://www.youtube.com/watch?v=uRXRIDy-6UU&index=46&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — описание фреймворка Spring Boot, почему данный фреймворк позволяет создавать приложения намного быстрее
 
 ### 4.2 Вебфреймворки (JavaFX, Javascript, AngularJS и т.п.)
 
@@ -194,7 +194,7 @@
 1. [Александор Дворецкий — Как подготовиться к созданию нагруженных сайтов](https://www.youtube.com/watch?v=qqH2FybPDt8)
 1. [Владимир Сонькин — Использование Spring 4 и AngularJS для разработки веб-приложений на базе архитектуры REST](https://www.youtube.com/watch?v=nh7eAt5RvZE)
 1. [Victor Polischuk — Web-application I have always dreamt of](https://www.youtube.com/watch?v=OZ8NRj9rvC8)
-1. [Nikita Lipsky — Delivering Native User Experience in Client-Side Java Applications](https://www.youtube.com/watch?v=rwRT5-lM3N4&index=26&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — нативные клиенты для работы с вебом вместо браузерного веба (от мобильных до десктопных приложений),
+1. [Никита Липский — Delivering Native User Experience in Client-Side Java Applications](https://www.youtube.com/watch?v=rwRT5-lM3N4&index=26&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — нативные клиенты для работы с вебом вместо браузерного веба (от мобильных до десктопных приложений)
 1. [Olga Semeniuk — Less JS! Web components for back-end developers](https://www.youtube.com/watch?v=aoCzBIGtUj0&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=48) — введение в веб компоненты для бакенд разработчиков
 
 ### 4.3 Прочие фреймворки и популярные библиотеки
@@ -218,7 +218,7 @@
 1. [Алексей Рагозин — Блеск и нищета распределенных кешей](https://www.youtube.com/watch?v=VVhdOWMAilo)
 1. [Alexey Tokar — MongoDB в продакшене — миф или реальность?](https://www.youtube.com/watch?v=wtWJAlrIhR4)
 1. [Artem Orobets — How do you store your data?](https://www.youtube.com/watch?v=V5KUQ2QmFhk&index=5&list=PLlhpyJD4TzMbYWHgSJb2kydmCMnem6YIk)
-1. [Roman Nikitchenko — Big Data: from mammoth to elephant – transforming legacy with Hadoop](https://www.youtube.com/watch?v=bas5rWnghkE&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=44) — как преобразовать легаси проекты в новые Big Data приложений с современным стеком технологий,
+1. [Roman Nikitchenko — Big Data: from mammoth to elephant – transforming legacy with Hadoop](https://www.youtube.com/watch?v=bas5rWnghkE&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=44) — как преобразовать легаси проекты в новые Big Data приложений с современным стеком технологий
 
 ### 5.2 Sql базы данных и JPA
 
@@ -228,7 +228,7 @@
 
 ### 5.3 Поисковые системы
 
-1. [Михаил Хлуднев — В поисках Tommy Hilfiger](https://www.youtube.com/watch?v=Azf4oUL-Dqc) — о Apache Lucene, свободной библиотеки для высокоскоростного полнотекстового поиска, о разных системах поиска,
+1. [Михаил Хлуднев — В поисках Tommy Hilfiger](https://www.youtube.com/watch?v=Azf4oUL-Dqc) — о Apache Lucene, свободной библиотеки для высокоскоростного полнотекстового поиска, о разных системах поиска
 1. [Alexey Tokar — To find a needle in a haystack](https://www.youtube.com/watch?v=G2zxxmF2iiA) — о нечетком поиске в словарях от разработчика Яндекса
 
 ### 5.4 BigData, Data Scientist, Машинное обучение
@@ -239,7 +239,7 @@
 1. [Boris Trofimov — Scalding Big Data: Thorns and Roses,](https://www.youtube.com/watch?v=ElxoxIBnohU)
 1. [Taras Matyashovskyy — Introduction to Real-Time Big Data with Apache Spark](https://www.youtube.com/watch?v=kZSfIfjFB3A&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=16) — внимание на **украинском языке**
 1. [Serhiy Masyutin — Big Data analysis approaches in Java world](https://www.youtube.com/watch?v=Dh_u-5O6hAI&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=18) — что такое Big Data, технология Map-Reduce и примеры проектов
-1. [Kyrylo Holodnov — Scaling a solution of an NP-hard problem with Apache ZooKeeper](https://www.youtube.com/watch?v=LOlGftTJJrg&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=30) — о Apache ZooKeeper, как с работать и решать различные задачи,
+1. [Kyrylo Holodnov — Scaling a solution of an NP-hard problem with Apache ZooKeeper](https://www.youtube.com/watch?v=LOlGftTJJrg&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=30) — о Apache ZooKeeper, как с работать и решать различные задачи
 1. [Andrii Golovei — Elastic stack in BigData](https://www.youtube.com/watch?v=1OYH7NNN_ps&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=55) — использование полнотексового поиска в BigData используя решения компании Elastic (Elastic Search)
 
 ## **6\. Особенности языка Java**
@@ -271,8 +271,8 @@
 1. [Дмитрий Чуйко — Новинки в java.util.concurrent](https://www.youtube.com/watch?v=aMQJnigGvfY)
 1. [Алексей Шипилёв — Bulletproof Java Concurrency](https://www.youtube.com/watch?v=uZfK-9ixxec)
 1. [Руслан Черёмин — Модель памяти Java: близкие контакты третьей степени](https://www.youtube.com/watch?v=rAcwfNxv97Q)
-1. [Alexey Fyodorov — Atomics, CAS, and Nonblocking Algorithms](https://www.youtube.com/watch?v=htbPckvO2zQ&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=3) — вопросы многозадачности, атомики, неблокирующие алгоритмы, CAS и т.п.
-1. [Mikalai Alimenkou — Java Concurrency Applied](https://www.youtube.com/watch?v=am23MMhTOxM&index=9&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — примеры практических решений про многозадачность
+1. [Алексей Фёдоров — Atomics, CAS, and Nonblocking Algorithms](https://www.youtube.com/watch?v=htbPckvO2zQ&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=3) — вопросы многозадачности, атомики, неблокирующие алгоритмы, CAS и т.п.
+1. [Николай Алименков — Java Concurrency Applied](https://www.youtube.com/watch?v=am23MMhTOxM&index=9&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — примеры практических решений про многозадачность
 
 ### 6.4 Интеграция
 
@@ -280,7 +280,7 @@
 1. [Яков Файн, Farata Systems — RESTful-сервисы и протокол OAuth в IoT](https://www.youtube.com/watch?v=SLEjztwCbzY)
 1. [Александр Белоцерковский — Windows Azure + Java = Open Integration](https://www.youtube.com/watch?v=adV8J-POQI8)
 1. [Вадим Цесько — Фреймворк Akka и его использование в Яндексе](https://www.youtube.com/watch?v=Cc2QtbjUX60)
-1. [Vladimir Tsukur — Вместе веcело шагать с HATEOAS!](https://www.youtube.com/watch?v=yxdQekc_wGw) — разработка Web Api,
+1. [Vladimir Tsukur — Вместе веcело шагать с HATEOAS!](https://www.youtube.com/watch?v=yxdQekc_wGw) — разработка Web Api
 1. [Максим Юнусов — «Масштабируемое приложение за 15 минут (используем AKKA под Java)](https://www.youtube.com/watch?v=rxkUJM0xqV0)
 1. [Вячеслав Лапин — Слабая связанность Java-сервера и web-интерфейса посредством REST API](https://www.youtube.com/watch?v=xPEgQW_fyxA)
 
@@ -300,16 +300,16 @@
 1. [Артём Ананьев — Проект OpenJDK](https://www.youtube.com/watch?v=_Z934djQtiQ)
 1. [Андрей Бреслав — Компромиссы в разработке языков программирования](https://www.youtube.com/watch?v=HE4yyPpUsy4)
 1. [Андрей Бреслав — Компромиссы, или Как проектируются языки программирования](https://www.youtube.com/watch?v=CX_K1r0Vklg)
-1. [Никита Липский и Павел Павлов — Excelsior JET: внутренняя архитектура](https://www.youtube.com/watch?v=tXDoGWGfZyw) — описание быстрой JVM реализации Excelsior JET с компиляцией в машинный код,
-1. [Никита Липский и Павел Павлов — Excelsior JET: обзор возможностей](https://www.youtube.com/watch?v=G9Oj3e1XCRg) — описание быстрой JVM реализации Excelsior JET с компиляцией в машинный код,
-1. [Nikita Lipsky — AOT компиляция](https://www.youtube.com/watch?v=aw89H-Vv-Zs) — статическая компиляция JVM в Excelsior JET, её преимущества и возможности по сравнению с обычной компиляцией,
-1. [Nikita Lipsky — Java худеет. Уменьшение размера дистрибутива Java приложения без зависимостей](https://www.youtube.com/watch?v=2v3YapNH4ss) — использование статического компилятора Excelsior JET для уменьшения размеров дистрибутивов Java приложений,
-1. [Никита Липский и Миша Быков — Занимательные истории из жизни техподдержки JVM](https://www.youtube.com/watch?v=3lKkZtBekJU) — о техподержке JVM Excelsior JET, о Excelsior JET и об особенностях реализации JVM, различия между JVM и проблемы при переходе между разными JVM,
+1. [Никита Липский и Павел Павлов — Excelsior JET: внутренняя архитектура](https://www.youtube.com/watch?v=tXDoGWGfZyw) — описание быстрой JVM реализации Excelsior JET с компиляцией в машинный код
+1. [Никита Липский и Павел Павлов — Excelsior JET: обзор возможностей](https://www.youtube.com/watch?v=G9Oj3e1XCRg) — описание быстрой JVM реализации Excelsior JET с компиляцией в машинный код
+1. [Никита Липский — AOT компиляция](https://www.youtube.com/watch?v=aw89H-Vv-Zs) — статическая компиляция JVM в Excelsior JET, её преимущества и возможности по сравнению с обычной компиляцией
+1. [Никита Липский — Java худеет. Уменьшение размера дистрибутива Java приложения без зависимостей](https://www.youtube.com/watch?v=2v3YapNH4ss) — использование статического компилятора Excelsior JET для уменьшения размеров дистрибутивов Java приложений
+1. [Никита Липский и Миша Быков — Занимательные истории из жизни техподдержки JVM](https://www.youtube.com/watch?v=3lKkZtBekJU) — о техподержке JVM Excelsior JET, о Excelsior JET и об особенностях реализации JVM, различия между JVM и проблемы при переходе между разными JVM
 1. [Алексей Шипилёв — OpenJDK Frameworks: jmh & jcstress](https://www.youtube.com/watch?v=4p4vL6EhzOk)
 1. [Шура Ильин — OpenJDK Test Base](https://www.youtube.com/watch?v=HywAx9DhMVQ)
 1. [Шура Ильин — JTReg: OpenJDK test harness](https://www.youtube.com/watch?v=1zCQmKOJEKo)
 1. [Шура Ильин — OpenJDK TestFest Intro](https://www.youtube.com/watch?v=1p9eagpKb1M)
-1. [Alexey Fyodorov — JDK: CPU, PSU, LU, FR – WTF???](https://www.youtube.com/watch?v=iQ5DKnS1kG4&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — рассказывается о четырех типах обновлений JDK в компании Oracle (Critical Patch Update (CPU), Patch Set Update (PSU), Limited Update (LU) and Feature Release (FR)). Чем отличаются типы обновления, какие изменения возможны в каждом типе обновлений.
+1. [Алексей Фёдоров — JDK: CPU, PSU, LU, FR – WTF???](https://www.youtube.com/watch?v=iQ5DKnS1kG4&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — рассказывается о четырех типах обновлений JDK в компании Oracle (Critical Patch Update (CPU), Patch Set Update (PSU), Limited Update (LU) and Feature Release (FR)). Чем отличаются типы обновления, какие изменения возможны в каждом типе обновлений
 1. [Никита Липский, Владимир Иванов — JVM: краткий курс общей анатомии](https://www.youtube.com/watch?v=-fcj6EL9rc4)
 
 ### 6.7 Аспектно-ориентированное программирование
@@ -328,8 +328,8 @@
 
 ### 6.10 Особенности языка Java
 
-1. [Владимир Ситников, NetCracker — Выражаемся регулярно](https://www.youtube.com/watch?v=pLKrKFy1t1Y) — описание регулярных выражений, их использования и проблем,
-1. [Алексей Рагозин — Структуры данных в Java, изобретаем заново](https://www.youtube.com/watch?v=mLqjySOrjOw) — описание реализации коллекций в Java и возможные методы их улучшения,
+1. [Владимир Ситников, NetCracker — Выражаемся регулярно](https://www.youtube.com/watch?v=pLKrKFy1t1Y) — описание регулярных выражений, их использования и проблем
+1. [Алексей Рагозин — Структуры данных в Java, изобретаем заново](https://www.youtube.com/watch?v=mLqjySOrjOw) — описание реализации коллекций в Java и возможные методы их улучшения
 1. [Светлана Исакова — Простыми словами про вывод типов](https://www.youtube.com/watch?v=8K6sNWvqrW8)
 1. [Александр Маторин — Неочевидные Дженерики](https://youtu.be/mNyQYTp-Njw)
 
@@ -338,13 +338,13 @@
 ### 7.1 Рефакторинги, качество кода, методики программирования
 
 1. [Яков Сироткин, Никита Липский, Олег Анастасьев, Филипп Дельгядо — Рефакторинги и технический долг](https://www.youtube.com/watch?v=IENCEQhmwMQ)
-1. [Антон Кекс — Как нам спасти Java? — Часть 1](https://www.youtube.com/watch?v=TSAlj04_tkA) — о проблемах Java, о том как можно сделать Java лучше, какие привычные подходы программирования в Java на самом деле больше вредны, чем полезны,
-1. [Антон Кекс — Как нам спасти Java? — Часть 2](https://www.youtube.com/watch?v=cPXTozVjSHo) — о проблемах Java, о том как можно сделать Java лучше, какие привычные подходы программирования в Java на самом деле больше вредны, чем полезны,
+1. [Антон Кекс — Как нам спасти Java? — Часть 1](https://www.youtube.com/watch?v=TSAlj04_tkA) — о проблемах Java, о том как можно сделать Java лучше, какие привычные подходы программирования в Java на самом деле больше вредны, чем полезны
+1. [Антон Кекс — Как нам спасти Java? — Часть 2](https://www.youtube.com/watch?v=cPXTozVjSHo) — о проблемах Java, о том как можно сделать Java лучше, какие привычные подходы программирования в Java на самом деле больше вредны, чем полезны
 1. [Николай Чашников — Писать код быстрее, ошибаться реже](https://www.youtube.com/watch?v=tVbSoWwIhHU)
 1. [Николай Чашников — Разработка API в Java-проекте](https://www.youtube.com/watch?v=kPWxDQ27nqM)
 1. [Николай Алименков — Парадигмы ООП](https://www.youtube.com/watch?v=G6LJkWwZGuc)
 1. [Михаил Ершов — Разработка совместимого API](https://www.youtube.com/watch?v=EgOZSr-Uc3w)
-1. [Nikolay Chashnikov — Write code faster with fewer errors: is it possible?](https://www.youtube.com/watch?v=_VhIBu8_4TE&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=57) — как избегать ошибок при написании кода,
+1. [Николай Чашников — Write code faster with fewer errors: is it possible?](https://www.youtube.com/watch?v=_VhIBu8_4TE&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=57) — как избегать ошибок при написании кода
 1. [Александр Маторин — Рефакторинг в функциональном стиле](https://www.youtube.com/watch?v=rNg8jrWelXk)
 1. [Вячеслав Лапин — Functional Reactive Programming в Java/JS](https://www.youtube.com/watch?v=pyFGxhFWBPA)
 
@@ -361,18 +361,18 @@
 1. [Евгений Борисов — eXtreme Application Platform (XAP)](https://www.youtube.com/watch?v=a-ArgBL5WhA)
 1. [Барух Садогурский — Bintray: Масштабируемый сервис в облаке с нуля](https://www.youtube.com/watch?v=9PulrKvL9Fc)
 1. [Барух Садогурский — Bintray: Работает — не трогай! Или зачем мы опять переделали всю архитектуру](https://www.youtube.com/watch?v=dhcUhkz1hxM)
-1. [Anatoliy Sokolenko — Key Problems of Microservice Architecture](https://www.youtube.com/watch?v=BaOB0iiq0-g&index=16&list=PLlhpyJD4TzMbYWHgSJb2kydmCMnem6YIk) — что такое сервисы и микросервисы, как их реализовать на практике, чем это лучше стандартной архитектуры и какие проблемы возникают при такой архитектуре,
+1. [Anatoliy Sokolenko — Key Problems of Microservice Architecture](https://www.youtube.com/watch?v=BaOB0iiq0-g&index=16&list=PLlhpyJD4TzMbYWHgSJb2kydmCMnem6YIk) — что такое сервисы и микросервисы, как их реализовать на практике, чем это лучше стандартной архитектуры и какие проблемы возникают при такой архитектуре
 1. [Izzet Mustafaiev — Fault tolerance – look, it’s possible!](https://www.youtube.com/watch?v=HwIvF1e0Z1o)
 1. [Oleg Tsal-Tsalko — Distributed systems and scalability rules](https://www.youtube.com/watch?v=KRs2URDBZ_A)
 1. [Барух Садогурский — Everything you wanted to know about async HTTP apps in Java](https://www.youtube.com/watch?v=onCSPCuH8cw&index=31&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — о написании асинхронного менеджера загрузок с параллельной загрузок файлов, одного файла, прерывания и паузы для программы репозиторий
-1. [Maxim Ivanov — Hey, I’ve seen something like it before!](https://www.youtube.com/watch?v=G34-crfjMHU&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=47) — подходы к принятию архитектурных решений. Хайп (использования модных базвордов — микросервисов, nosql и т.п. ради базвордов) и его последствия для архитекторов.
+1. [Maxim Ivanov — Hey, I’ve seen something like it before!](https://www.youtube.com/watch?v=G34-crfjMHU&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=47) — подходы к принятию архитектурных решений. Хайп (использования модных базвордов — микросервисов, nosql и т.п. ради базвордов) и его последствия для архитекторов
 
 ### 7.3 Тестирование приложений
 
 1. [Глеб Смирнов — Мутационное тестирование, или О чём молчит Code Coverage](https://www.youtube.com/watch?v=gGZ-5uHYAi4) — описание почему 100% Code Coverage у Unit тестов не гарантирует правильную работу кода, что такое мутационное тестирование и как оно помогает улучшить Unit тесты, описание мутационной системы pitest (http://pitest.org/)
 1. [Алексей Рагозин — Как и зачем эмулировать распределённый кластер в JVM](https://www.youtube.com/watch?v=F9uAJ4o5zls) — описание библиотеки, которая позволяет для задач Unit тестирования эмулировать распределённый кластер на одной ноде
-1. [Алексей Рагозин — Сеть — это большая JVM](https://www.youtube.com/watch?v=EcoJrYJczqc) — часть 2 лекции » Как и зачем эмулировать распределённый кластер в JVM "
-1. [Mikalai Alimenkou — «TDD for database related code, how is it possible?»](https://www.youtube.com/watch?v=RanIHsirGFg) — описание TDD методологии
+1. [Алексей Рагозин — Сеть — это большая JVM](https://www.youtube.com/watch?v=EcoJrYJczqc) — часть 2 лекции "Как и зачем эмулировать распределённый кластер в JVM"
+1. [Николай Алименков — «TDD for database related code, how is it possible?»](https://www.youtube.com/watch?v=RanIHsirGFg) — описание TDD методологии
 1. [Katya Kameneva — How I lost my QA job](https://www.youtube.com/watch?v=hTxfgGdy83Q&index=12&list=PLlhpyJD4TzMbYWHgSJb2kydmCMnem6YIk) — о внедрении TDD технологий
 1. [Dmytro Chyzhykov — Testing Web Apps with Spring Framework](https://www.youtube.com/watch?v=bu9WKVSF9uo&list=PLlhpyJD4TzMbYWHgSJb2kydmCMnem6YIk&index=15) — тестирование Spring MVC приложений
 1. [Андрей Солнцев — Пацан накодил — пацан протестил!](https://www.youtube.com/watch?v=8u6_hctdhqI)
