@@ -152,6 +152,7 @@
 1. [Pavel Grushetzky — Java for hipsters and rocks stars](https://www.youtube.com/watch?v=CPbfSiQds9g&index=14&list=PLlhpyJD4TzMbYWHgSJb2kydmCMnem6YIk)
 1. [Oleg Tsal-Tsalko — 10+ new features you ought to know using Java 8](https://www.youtube.com/watch?v=uweWvwzF_bA)
 1. [Барух Садогурский, Евгений Борисов, Тагир Валеев — Java 8 Puzzlers](https://www.youtube.com/watch?v=6bN1HcRhse4)
+1. [Тагир Валеев - Weird Stream API](https://www.youtube.com/watch?v=g_0ueo4gfYk)
 
 ### 3.7 Java 9+ и будущее Java
 
