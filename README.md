@@ -17,7 +17,7 @@
 1. [Kirill Golodnov — О бесконечно долгой работе дочерних процессов Java-приложения](https://www.youtube.com/watch?v=rq2ohXAsFAQ)
 1. [Андрей Афанасьев — Оптимизация производительности распределенных приложений...](https://www.youtube.com/watch?v=CWuIElUCKZo)
 1. [Руслан Черёмин — Disruptor и прочие фокусы](https://www.youtube.com/watch?v=IsGBA9KEtTM)
-1. [Gleb Smirnov — Side-By-Side Performance Comparisons](https://www.youtube.com/watch?v=mAtyeBOT2vg&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=22) — что значит «тормозит» и как с этим бороться
+1. [Глеб Смирнов — Side-By-Side Performance Comparisons](https://www.youtube.com/watch?v=mAtyeBOT2vg&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=22) — что значит «тормозит» и как с этим бороться
 1. [Никита Сальников-Тарновский — First steps in GC tuning](https://www.youtube.com/watch?v=4MWJgxLukfI&index=60&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — проблемы, связанные с производительностью из-за сборщика мусора
 
 ### 1.2 Высоконагруженные приложения (HighLoad)
@@ -258,6 +258,7 @@
 1. [Антон Архипов — Загрузчики классов в Java: коллекция граблей](https://www.youtube.com/watch?v=RHVzgXff9jg)
 1. [Владимир Иванов — Динамическая (JIT) компиляция в JVM](https://www.youtube.com/watch?v=oYu3HuIYDhI)
 1. [Дмитрий Завалишин — Конвертер байткода JVM для виртуальной машины Фантом](https://www.youtube.com/watch?v=tryheF8COZ0)
+1. [Глеб Смирнов — Как всё испортить своим Java-агентом](https://www.youtube.com/watch?v=SY5lMgWlHAw)
 
 ### 6.3 Aсинхронность и многопоточность
 
