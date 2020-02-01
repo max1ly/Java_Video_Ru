@@ -341,7 +341,7 @@
 
 1. [Яков Сироткин, Никита Липский, Олег Анастасьев, Филипп Дельгядо — Рефакторинги и технический долг](https://www.youtube.com/watch?v=IENCEQhmwMQ)
 1. [Антон Кекс — Как нам спасти Java? — Часть 1](https://www.youtube.com/watch?v=TSAlj04_tkA) — о проблемах Java, о том как можно сделать Java лучше, какие привычные подходы программирования в Java на самом деле больше вредны, чем полезны
-1. [Антон Кекс — Как нам спасти Java? — Часть 2](https://www.youtube.com/watch?v=cPXTozVjSHo) — о проблемах Java, о том как можно сделать Java лучше, какие привычные подходы программирования в Java на самом деле больше вредны, чем полезны
+1. [Антон Кекс — Как нам спасти Java? — Часть 2](https://www.youtube.com/watch?v=cPXTozVjSHo)
 1. [Николай Чашников — Писать код быстрее, ошибаться реже](https://www.youtube.com/watch?v=tVbSoWwIhHU)
 1. [Николай Чашников — Разработка API в Java-проекте](https://www.youtube.com/watch?v=kPWxDQ27nqM)
 1. [Николай Алименков — Парадигмы ООП](https://www.youtube.com/watch?v=G6LJkWwZGuc)
@@ -349,6 +349,7 @@
 1. [Николай Чашников — Write code faster with fewer errors: is it possible?](https://www.youtube.com/watch?v=_VhIBu8_4TE&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=57) — как избегать ошибок при написании кода
 1. [Александр Маторин — Рефакторинг в функциональном стиле](https://www.youtube.com/watch?v=rNg8jrWelXk)
 1. [Вячеслав Лапин — Functional Reactive Programming в Java/JS](https://www.youtube.com/watch?v=pyFGxhFWBPA)
+1. [Тагир Валеев - Атомарный рефакторинг в IntelliJ IDEA: прогибаем IDE под себя](https://www.youtube.com/watch?v=C5eD-K8AO3o)
 
 ### 7.2 Архитектура, бизнес правила, бизнес модель и примеры приложений
 
