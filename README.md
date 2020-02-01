@@ -67,6 +67,7 @@
 1. [Владимир Кожаев — How to write IDE for your DSL in one day](https://www.youtube.com/watch?v=fgw_C-mXIA4&index=27&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL)
 1. [Евгений Борисов — Power of Gradle](https://www.youtube.com/watch?v=NZJTYPLb0iE)
 1. [Sergey Morenets — Gradle 2\. Write once, build everywhere](https://www.youtube.com/watch?v=zxbjAa49y_o) — внимание: видео на **украинском языке**
+1. [Антон Архипов — Эффективная работа с IDE(A)](https://www.youtube.com/watch?v=_rj7dx6c5R8)
 
 ### 2.2 Отладка, профилирование, мониторинг
 
