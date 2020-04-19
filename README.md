@@ -29,6 +29,7 @@
 1. [Андрей Паньгин — Выжимаем из сервера максимум: приемы кеширования и передачи данных на Java](https://www.youtube.com/watch?v=LYs1qUUVZ7w) — описание приемов создания высоконагруженных систем на Odnoklassniki.ru
 1. [Alexander Oleynikov — Практический опыт построения API высоконагруженных сервисов](https://www.youtube.com/watch?v=K1ozhmRxILE) — описание создания высоконагруженных систем в Yandex'е,
 1. [Valerii Moisieienko — How to Manage 10K request per second in HA manner](https://www.youtube.com/watch?v=Nu1mxR5b-3c&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=43) — история разработки высоконагруженного приложения на недорогом железе
+1. [Олег Анастасьев — Эффективные надежные микросервисы](https://youtu.be/x9tvJjWCrr4)
 
 ### 1.3 Сборка мусора, утечки памяти и работа с памятью
 
