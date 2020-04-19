@@ -19,6 +19,7 @@
 1. [Руслан Черёмин — Disruptor и прочие фокусы](https://www.youtube.com/watch?v=IsGBA9KEtTM)
 1. [Глеб Смирнов — Side-By-Side Performance Comparisons](https://www.youtube.com/watch?v=mAtyeBOT2vg&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=22) — что значит «тормозит» и как с этим бороться
 1. [Никита Сальников-Тарновский — First steps in GC tuning](https://www.youtube.com/watch?v=4MWJgxLukfI&index=60&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — проблемы, связанные с производительностью из-за сборщика мусора
+1. [Тагир Валеев — Java 9-14: Маленькие оптимизации](https://youtu.be/5Y0Alqb9H_I)
 
 ### 1.2 Высоконагруженные приложения (HighLoad)
 
