@@ -20,6 +20,7 @@
 1. [Глеб Смирнов — Side-By-Side Performance Comparisons](https://www.youtube.com/watch?v=mAtyeBOT2vg&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL&index=22) — что значит «тормозит» и как с этим бороться
 1. [Никита Сальников-Тарновский — First steps in GC tuning](https://www.youtube.com/watch?v=4MWJgxLukfI&index=60&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL) — проблемы, связанные с производительностью из-за сборщика мусора
 1. [Тагир Валеев — Java 9-14: Маленькие оптимизации](https://youtu.be/5Y0Alqb9H_I)
+1. [Тагир Валеев — Ещё немного маленьких оптимизаций](https://youtu.be/NXh98XRi2is)
 
 ### 1.2 Высоконагруженные приложения (HighLoad)
 
@@ -68,7 +69,7 @@
 1. [Philip Torchinsky — Интеграция баг-трекера и сервера CI с IntelliJ IDEA](https://www.youtube.com/watch?v=YEClJ8LKf_s)
 1. [Владимир Кожаев — How to write IDE for your DSL in one day](https://www.youtube.com/watch?v=fgw_C-mXIA4&index=27&list=PLYj3Bx1JM6Y6KJyi0TL3BJLRzgZJ4cWmL)
 1. [Евгений Борисов — Power of Gradle](https://www.youtube.com/watch?v=NZJTYPLb0iE)
-1. [Sergey Morenets — Gradle 2\. Write once, build everywhere](https://www.youtube.com/watch?v=zxbjAa49y_o) — внимание: видео на **украинском языке**
+1. [Sergey Morenets — Gradle 2\. Write once, build everywhere](https://www.youtube.com/watch?v=zxbjAa49y_o) — на **украинском языке**
 1. [Антон Архипов — Эффективная работа с IDE(A)](https://www.youtube.com/watch?v=_rj7dx6c5R8)
 
 ### 2.2 Отладка, профилирование, мониторинг
@@ -382,6 +383,7 @@
 1. [Katya Kameneva — How I lost my QA job](https://www.youtube.com/watch?v=hTxfgGdy83Q&index=12&list=PLlhpyJD4TzMbYWHgSJb2kydmCMnem6YIk) — о внедрении TDD технологий
 1. [Dmytro Chyzhykov — Testing Web Apps with Spring Framework](https://www.youtube.com/watch?v=bu9WKVSF9uo&list=PLlhpyJD4TzMbYWHgSJb2kydmCMnem6YIk&index=15) — тестирование Spring MVC приложений
 1. [Андрей Солнцев — Пацан накодил — пацан протестил!](https://www.youtube.com/watch?v=8u6_hctdhqI)
+1. [Владимир Ситников — assertTrue, как много в этом слове...](https://youtu.be/1XoQv5oeAm8)
 
 ## 8\. Прочее
 
